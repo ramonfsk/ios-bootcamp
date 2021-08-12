@@ -12,6 +12,7 @@
 		2CEFF1B926C3F6AD00F8BD3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CEFF1B826C3F6AD00F8BD3B /* Assets.xcassets */; };
 		2CEFF1BC26C3F6AD00F8BD3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CEFF1BB26C3F6AD00F8BD3B /* Preview Assets.xcassets */; };
 		2CEFF1C526C3F9D300F8BD3B /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2CEFF1C426C3F9D200F8BD3B /* Pacifico-Regular.ttf */; };
+		2CEFF1C726C4A35900F8BD3B /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEFF1C626C4A35900F8BD3B /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2CEFF1BB26C3F6AD00F8BD3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2CEFF1BD26C3F6AD00F8BD3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CEFF1C426C3F9D200F8BD3B /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pacifico-Regular.ttf"; path = "../../../../../../../Users/rfnascimento/Downloads/Pacifico/Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		2CEFF1C626C4A35900F8BD3B /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2CEFF1B826C3F6AD00F8BD3B /* Assets.xcassets */,
 				2CEFF1BD26C3F6AD00F8BD3B /* Info.plist */,
 				2CEFF1BA26C3F6AD00F8BD3B /* Preview Content */,
+				2CEFF1C626C4A35900F8BD3B /* InfoView.swift */,
 			);
 			path = RamonCard;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CEFF1B726C3F6A700F8BD3B /* ContentView.swift in Sources */,
+				2CEFF1C726C4A35900F8BD3B /* InfoView.swift in Sources */,
 				2CEFF1B526C3F6A700F8BD3B /* RamonCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
